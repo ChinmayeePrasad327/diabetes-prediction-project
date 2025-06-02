@@ -45,22 +45,9 @@ Precision	67%
 Recall	62%
 F1-Score	64%
 
-
-📌 How to Run
-bash
-Copy
-Edit
-# Clone this repo
-git clone https://github.com/ChinmayeePrasad327/diabetes-prediction-project.git
-
-# Open the notebook
-cd diabetes-prediction-ml
-Open with Jupyter Notebook or Google Colab
 🚀 Future Work
 Try advanced models: Random Forest, XGBoost
-
 Use SHAP for explainability
-w
 Deploy model using Flask or Streamlit
 
 🙋‍♀️ About Me

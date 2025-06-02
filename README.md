@@ -1,4 +1,6 @@
 🩺 Early Diabetes Prediction using Machine Learning
+
+
 🔍 Overview
 This project aims to predict whether a patient is likely to have diabetes using common medical measurements. The goal is to assist in early diagnosis, potentially improving treatment and outcomes with timely intervention.
 

@@ -45,8 +45,7 @@ Precision	67%
 Recall	62%
 F1-Score	64%
 
-Deployement using Streanlit: diabetes-prediction-project-skgfbgmgq5fu75raczfcqz
-.streamlit.app
+Deployement using Streanlit: (https://diabetes-prediction-project-skgfbgmgq5fu75raczfcqz.streamlit.app/)
 
 🚀 Future Work
 Try advanced models: Random Forest, XGBoost

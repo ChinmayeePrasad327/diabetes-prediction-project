@@ -18,7 +18,7 @@ This project leverages machine learning to predict the likelihood of a person ha
 ---
 
 ## 📂 Dataset Details  
-📌 **Source:** [Kaggle](https://www.kaggle.com/datasets/saurabh00007/diabetescsv))  
+📌 **Source:** [Kaggle](https://www.kaggle.com/datasets/saurabh00007/diabetescsv)
 📦 **Records:** 768 samples  
 📈 **Features (8 total):**
 - Glucose level  

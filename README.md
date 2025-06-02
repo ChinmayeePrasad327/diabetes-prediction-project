@@ -45,10 +45,12 @@ Precision	67%
 Recall	62%
 F1-Score	64%
 
+Deployement using Streanlit: diabetes-prediction-project-skgfbgmgq5fu75raczfcqz
+.streamlit.app
 🚀 Future Work
 Try advanced models: Random Forest, XGBoost
 Use SHAP for explainability
-Deploy model using Flask or Streamlit
+
 
 🙋‍♀️ About Me
 Hey, I’m P.V.R.B.Chinmayee—a B.Tech CSE (AI/ML) student passionate about machine learning and health tech.
